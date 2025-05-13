@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|c:\\users\\administrator\\downloads\\quanlytour\\quanlytour\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\QuanLyTour\\packages\\EPPlus.6.2.19\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\FormLogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\BookingForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\rptphieutour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\rptphieutour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\ItineraryForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\ItineraryForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\BookingForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmTour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\FormLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\KetNoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\KetNoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\rptPhieuTour.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\rptPhieuTour.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\BookingForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmLichTrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\RibbonForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\RibbonForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmLichTrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmLichTrinh.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\FormLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\CustomerForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\CustomerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmTour.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmPhuongTien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmPhuongTien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmLoaiTour.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:QuanLyTour\\frmLoaiTour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\frmtour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\frmtour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\frmloaitour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\frmloaitour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\ribbonform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\itineraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\itineraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|C:\\Users\\Administrator\\Downloads\\QuanLyTour\\quanlytour\\frmphuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EF2D72-847F-4FCC-8D2C-3A17067CAD0E}|QuanLyTour\\QuanLyTour.csproj|solutionrelative:quanlytour\\frmphuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyTour\\packages\\EPPlus.6.2.19\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\admin\\Downloads\\QuanLyTour\\packages\\EPPlus.6.2.19\\readme.txt",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyTour\\packages\\EPPlus.6.2.19\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\admin\\Downloads\\QuanLyTour\\packages\\EPPlus.6.2.19\\readme.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T19:12:44.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyTour\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:43:57.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.resx",
+              "RelativeDocumentMoniker": "QuanLyTour\\FormLogin.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.resx",
+              "RelativeToolTip": "QuanLyTour\\FormLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-13T13:39:08.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingForm.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.resx",
+              "RelativeDocumentMoniker": "QuanLyTour\\BookingForm.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.resx",
+              "RelativeToolTip": "QuanLyTour\\BookingForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-13T13:25:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "QuanLyTour\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:15:44.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\Program.cs",
+              "RelativeToolTip": "QuanLyTour\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:57:55.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rptPhieuTour.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\rptPhieuTour.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\rptPhieuTour.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\rptPhieuTour.cs [Design]",
+              "RelativeToolTip": "QuanLyTour\\rptPhieuTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:16:29.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItineraryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\ItineraryForm.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\ItineraryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\ItineraryForm.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\ItineraryForm.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:36:19.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\BookingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\BookingForm.Designer.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:40:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTour.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmTour.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.cs",
+              "RelativeToolTip": "QuanLyTour\\frmTour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:16:04.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:44:05.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\KetNoi.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\KetNoi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\KetNoi.cs",
+              "RelativeToolTip": "QuanLyTour\\KetNoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:56:44.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rptPhieuTour.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\rptPhieuTour.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\rptPhieuTour.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\rptPhieuTour.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\rptPhieuTour.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:17:55.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\BookingForm.cs",
+              "RelativeToolTip": "QuanLyTour\\BookingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:40:00.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLichTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmLichTrinh.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.cs [Design]",
+              "RelativeToolTip": "QuanLyTour\\frmLichTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:22:22.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RibbonForm1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\RibbonForm1.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\RibbonForm1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\RibbonForm1.cs",
+              "RelativeToolTip": "QuanLyTour\\RibbonForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:54:52.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLichTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmLichTrinh.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.cs",
+              "RelativeToolTip": "QuanLyTour\\frmLichTrinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:23:43.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmLichTrinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmLichTrinh.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLichTrinh.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\frmLichTrinh.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:24:15.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\FormLogin.cs",
+              "RelativeToolTip": "QuanLyTour\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:45:28.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\CustomerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\CustomerForm.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswKAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:34:23.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.cs",
+              "RelativeToolTip": "QuanLyTour\\CustomerForm.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwLAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:34:02.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmTour.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmTour.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\frmTour.Designer.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAvwCwBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:16:11.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmPhuongTien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmPhuongTien.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\frmPhuongTien.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwBgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:12:49.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmPhuongTien.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmPhuongTien.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.cs",
+              "RelativeToolTip": "QuanLyTour\\frmPhuongTien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:12:46.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmLoaiTour.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmLoaiTour.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.Designer.cs",
+              "RelativeToolTip": "QuanLyTour\\frmLoaiTour.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:04:09.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmLoaiTour.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmLoaiTour.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.cs",
+              "RelativeToolTip": "QuanLyTour\\frmLoaiTour.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:04:06.877Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmTour.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmTour.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmTour.cs [Design]",
+              "RelativeToolTip": "QuanLyTour\\frmTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:15:59.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmLoaiTour.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmLoaiTour.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmLoaiTour.cs [Design]",
+              "RelativeToolTip": "QuanLyTour\\frmLoaiTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:01:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "QuanLyTour\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:33:48.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RibbonForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\RibbonForm1.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\RibbonForm1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyTour\\QuanLyTour\\RibbonForm1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\admin\\Downloads\\QuanLyTour\\QuanLyTour\\RibbonForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:48:44.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItineraryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\ItineraryForm.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\ItineraryForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyTour\\QuanLyTour\\ItineraryForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\admin\\Downloads\\QuanLyTour\\QuanLyTour\\ItineraryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:36:02.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmPhuongTien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.cs",
+              "RelativeDocumentMoniker": "QuanLyTour\\frmPhuongTien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\admin\\Downloads\\QuanLyTour\\QuanLyTour\\frmPhuongTien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:12:30.692Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
